@@ -1,0 +1,4 @@
+Kasia, Tiger, predator, 150
+Kasia, Rabbit, herbivorous, 3
+Olenka, Cat, predator, 5
+Fara, Wolf, predator, 40
